@@ -1,6 +1,1 @@
-spring:
-  application:
-    name: config-client-test
-    
-server:
-  port: 9094
+msg: Good Morning.....
